@@ -1,8 +1,10 @@
 import { Component, OnInit } from '@angular/core';
+
 import { FeedService } from './feed-service.service';
+import { FeedEntry } from './model';
 
 // Add the RxJS Observable operators we need in this app.
-import 'rxjs';
+import './rxjs-operators';
 
 @Component({
   selector: 'app-root',
@@ -13,7 +15,7 @@ import 'rxjs';
 export class AppComponent implements OnInit {
 
   private feedUrl: string = 'https%3A%2F%2Fwww.becompany.ch%2Fen%2Fblog%2Ffeed.xml';
-  private feeds: any;
+  private feeds: Array<FeedEntry> = [];
 
   constructor (
     private feedService: FeedService
