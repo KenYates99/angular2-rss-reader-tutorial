@@ -1,4 +1,11 @@
-# TodoApp
+# Project Info
+## Tutorial Info
+I am following along with a tutorial from [becompany](https://www.becompany.ch/en/blog/2016/09/19/angular2-rss-reader).
+I came across this tutorial while trying to build a angular2 app as a phonegap app.
+This link came up as an example of a cordova angular2 app. [here](https://www.becompany.ch/en/blog/2016/10/19/creating-apache-cordova-app-with-angular2)
+
+
+# Angular2RssReaderTutorial
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.1.
 
