@@ -7,8 +7,10 @@ The github repo is [here](https://github.com/becompany/angular2-rss-reader-tutor
 I came across this tutorial while trying to build a angular2 app as a phonegap app.
 This link came up as an example of a cordova angular2 app. [here](https://www.becompany.ch/en/blog/2016/10/19/creating-apache-cordova-app-with-angular2)
 
+## Phonegap tutorial
+Here is a [Phonegap tutorial](http://www.tutorialspoint.com/phonegap/)
 
-# Angular2RssReaderTutorial
+## Angular2RssReaderTutorial
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.1.
 
